@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="5EA9493A-6159-476E-A29C-6F415A5E744E"/>
+        <Document ID="50869FE6-38E7-4C72-BA3A-969796B5360D">
+            <Title>Characters</Title>
+            <Text>Detective - Main Character
+
+The HOUND - Forensic professional
+The spouse - Spouse of missing person
+Noisy neighbor - Neighbor of victim
+Businessman - Friend of victim
+HARRIOTT - Mascot for University victim worked
+Sneak - Local bike theif
+Distant Aunt - Aunt of victim</Text>
+        </Document>
+        <Document ID="5EA9493A-6159-476E-A29C-6F415A5E744E">
+            <Title>Main</Title>
+            <Text>Secret Admirer
+
+Secret Admirer is a mystery game where players play as a masked detective who must take notes of the clues their callers present to them in order to solve the mystery of the missing husband. </Text>
+        </Document>
+        <Document ID="ADB1CC1D-1250-44E4-9A67-97A79E9B4B45">
+            <Title>Characters</Title>
+            <Synopsis>Detective - Main Character
+
+The HOUND - Forensic professional
+The spouse - Spouse of missing person
+Noisy neighbor - Neighbor of victim
+Businessman - Friend of victim
+HARRIOTT - Mascot for University victim worked
+Sneak - Local bike theif
+Distant Aunt - Aunt of victim</Synopsis>
+        </Document>
+        <Document ID="C7258444-A60B-4736-BB5C-B6AE8CC495FA"/>
     </Documents>
 </SearchIndexes>
